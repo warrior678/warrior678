@@ -21,7 +21,56 @@ Analyzed patient records to identify disease trends, hospital performance, patie
 
 ### 🛒 Superstore Sales Analytics
 **Tools:** Excel, SQL, Power BI  
-Analyzed retail sales data to identify top-performing products, regional sales trends, customer segments, and profit optimization opportunities.
+Analyzed retail sales data to identify top-performing products, regional sales trends, customer segments, and profit optimization opportunities. 
+# 📂 Project Portfolio
+
+---
+
+## 🗄️ SQL Projects
+
+- Student Tracker Project  
+- Sales Performance Analytics  
+- Banking Performance Analytics  
+- Healthcare Patients Analytics  
+- Superstore Sales Analytics  
+- Women & Child Healthcare  
+- Diamond Quality and Price Insights  
+
+---
+
+## 📊 Power BI Projects
+
+- Superstore Sales Analytics  
+- Healthcare Patients Analytics  
+- Solar Energy Analysis  
+- Student Performance Analytics – GenAI Insights Dashboard  
+- Women & Child Healthcare  
+- Sales Performance Analytics  
+- Banking Performance Analytics  
+
+---
+
+## 🐍 Python Projects
+
+- IPL Cricket Matches Analysis  
+- Telecom Customer Churn AI  
+- Customer Churn Flask App  
+- Automated Interview Evaluation System  
+
+---
+
+## ☁️ Data Engineering / Cloud Projects
+
+- Azure Sales Analytics Pipeline  
+
+---
+
+## 🤖 Machine Learning / AI Projects
+
+- Telecom Customer Churn AI  
+- Automated Interview Evaluation System  
+- Customer Churn Flask App  
+
 
 ### ☀️ Solar Energy Analysis
 **Tools:** Python, Excel, Power BI  
